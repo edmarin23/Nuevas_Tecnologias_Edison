@@ -1,3 +1,6 @@
+# Generar un programa que permita hacer el registro e iniciar sesion dentro de while, debe imprimir el menu usando la implementacion de if, elif , else (Selector multiple). Cuando inicie sesion que implemente la solucion del calculo de cuotas creada en el reto anterio.   
+
+
 def registro():
     print("Formulario de registro")
     usuario = input("Nombre de usuario: ")
